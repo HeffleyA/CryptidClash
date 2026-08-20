@@ -73,10 +73,3 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-# Unnecessary Meta Files
-Intermediate\CachedAssetRegistryDiscovery.bin
-Saved\AutoScreenshot.png
-Saved\Logs\AutoSDKInfo.json
-Saved\Logs\AutoSDKInfo.txt
-Saved\Logs\CryptidClash.log
